@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "572c3ed2-fcb1-451b-a360-8bf4f06b4b17": {
+      "ProjectGuid": "572c3ed2-fcb1-451b-a360-8bf4f06b4b17",
+      "DisplayName": "ASP.NetCore-WebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
