@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IAJxms9zzmxSJyBs4nmjO3gpZV0VARHgvCo7j0uEXrzt7P04jZHs5CREV1vrF5mEqGqUD558r9sGqouOjXSMLQ==",
+  "dgSpecHash": "lc6uBHjU/ssDwTEY3xWP0NTNSrucvTLIC6V2h/RcKrNCJKHB05m97vvzj6jHjVhwsaipsR9QQmueSWjSLiczGQ==",
   "success": true,
-  "projectFilePath": "C:\\Jonas\\Estudos\\C#\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj",
+  "projectFilePath": "C:\\Jonas\\Estudos\\C#\\ASP.NetCoreWebAPI - Get_Post_Delet\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alaci\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\alaci\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

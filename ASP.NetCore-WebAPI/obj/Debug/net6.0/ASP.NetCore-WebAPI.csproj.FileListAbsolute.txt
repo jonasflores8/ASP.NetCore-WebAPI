@@ -25,3 +25,30 @@ C:\Jonas\Estudos\C#\ASP.NetCore-WebAPI\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.N
 C:\Jonas\Estudos\C#\ASP.NetCore-WebAPI\ASP.NetCore-WebAPI\obj\Debug\net6.0\ref\ASP.NetCore-WebAPI.dll
 C:\Jonas\Estudos\C#\ASP.NetCore-WebAPI\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.pdb
 C:\Jonas\Estudos\C#\ASP.NetCore-WebAPI\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.genruntimeconfig.cache
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\ASP.NetCore-WebAPI.exe
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\ASP.NetCore-WebAPI.deps.json
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\ASP.NetCore-WebAPI.runtimeconfig.json
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\ASP.NetCore-WebAPI.dll
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\ref\ASP.NetCore-WebAPI.dll
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\ASP.NetCore-WebAPI.pdb
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.csproj.AssemblyReference.cache
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.AssemblyInfoInputs.cache
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.AssemblyInfo.cs
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.csproj.CoreCompileInputs.cache
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\scopedcss\bundle\ASP.NetCore-WebAPI.styles.css
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.csproj.CopyComplete
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.dll
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ref\ASP.NetCore-WebAPI.dll
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.pdb
+C:\Jonas\Estudos\C#\ASP.NetCoreWebAPI - Get_Post_Delet\ASP.NetCore-WebAPI\obj\Debug\net6.0\ASP.NetCore-WebAPI.genruntimeconfig.cache

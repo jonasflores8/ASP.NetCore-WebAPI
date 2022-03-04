@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jonas\\Estudos\\C#\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj": {}
+    "C:\\Jonas\\Estudos\\C#\\ASP.NetCoreWebAPI - Get_Post_Delet\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Jonas\\Estudos\\C#\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj": {
+    "C:\\Jonas\\Estudos\\C#\\ASP.NetCoreWebAPI - Get_Post_Delet\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jonas\\Estudos\\C#\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj",
+        "projectUniqueName": "C:\\Jonas\\Estudos\\C#\\ASP.NetCoreWebAPI - Get_Post_Delet\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj",
         "projectName": "ASP.NetCore-WebAPI",
-        "projectPath": "C:\\Jonas\\Estudos\\C#\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj",
+        "projectPath": "C:\\Jonas\\Estudos\\C#\\ASP.NetCoreWebAPI - Get_Post_Delet\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI.csproj",
         "packagesPath": "C:\\Users\\alaci\\.nuget\\packages\\",
-        "outputPath": "C:\\Jonas\\Estudos\\C#\\ASP.NetCore-WebAPI\\ASP.NetCore-WebAPI\\obj\\",
+        "outputPath": "C:\\Jonas\\Estudos\\C#\\ASP.NetCoreWebAPI - Get_Post_Delet\\ASP.NetCore-WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
